@@ -446,7 +446,7 @@ export default function App() {
 					<div className='max-w-6xl mx-auto px-4 sm:px-6 lg:px-8'>
 						<div className='flex items-center justify-between h-12 sm:h-14'>
 							<span className='text-white font-semibold text-lg tracking-tight'>
-								Lumière
+								cosmetic
 							</span>
 							<div className='hidden md:flex items-center gap-8'>
 								<a
@@ -572,7 +572,7 @@ export default function App() {
 										<img
 											ref={heroImageRef}
 											src={IMAGES.hero}
-											alt='Lumière Signature Serum'
+											alt='cosmetic Signature Serum'
 											className='w-full h-full object-cover rounded-[2.5rem] shadow-2xl shadow-black/50'
 										/>
 										<div className='absolute inset-0 rounded-[2.5rem] ring-1 ring-white/20' />
@@ -646,7 +646,7 @@ export default function App() {
 							<h2 className='section-title text-3xl sm:text-4xl lg:text-5xl font-semibold text-[#1d1d1f] mb-4'>
 								Nima uchun{" "}
 								<span className='bg-gradient-to-r from-violet-600 to-pink-600 bg-clip-text text-transparent'>
-									Lumière
+									cosmetic
 								</span>
 								?
 							</h2>
@@ -930,7 +930,7 @@ export default function App() {
 					<div className='max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-12 sm:py-16'>
 						<div className='grid grid-cols-2 md:grid-cols-4 gap-8 mb-12'>
 							<div className='col-span-2 md:col-span-1'>
-								<h3 className='text-xl font-semibold mb-4'>Lumière</h3>
+								<h3 className='text-xl font-semibold mb-4'>cosmetic</h3>
 								<p className='text-gray-400 text-sm leading-relaxed'>
 									Premium terini parvarish qilish mahsulotlari. Tabiat va
 									ilm-fan uyg'unligi.
@@ -1015,7 +1015,7 @@ export default function App() {
 
 						<div className='flex flex-col sm:flex-row items-center justify-between pt-8 border-t border-white/10'>
 							<p className='text-gray-400 text-sm mb-4 sm:mb-0'>
-								© 2026 Lumière. Barcha huquqlar himoyalangan.
+								© 2026 cosmetic. Barcha huquqlar himoyalangan.
 							</p>
 							<div className='flex gap-4'>
 								<a
